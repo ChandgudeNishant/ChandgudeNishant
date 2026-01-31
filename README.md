@@ -12,7 +12,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ChandgudeNishant&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandgudeNishant&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChandgudeNishant&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔝 Top Contributed Repo: 👇👇👇
